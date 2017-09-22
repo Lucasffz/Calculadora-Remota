@@ -1,0 +1,23 @@
+Cliente ('127.0.0.1', 53955) enviou 1 2.000000 5.000000
+cliente ('127.0.0.1', 53980) conectou.
+Cliente ('127.0.0.1', 53980) enviou 1 2.000000 5.000000
+cliente ('127.0.0.1', 53982) conectou.
+Cliente ('127.0.0.1', 53982) desconectou.cliente ('127.0.0.1', 54055) conectou.
+Cliente ('127.0.0.1', 54055) enviou 1 2.000000 3.000000
+Cliente ('127.0.0.1', 54055) desconectou.
+cliente ('127.0.0.1', 54055) conectou.
+cliente ('127.0.0.1', 54057) conectou.
+Cliente ('127.0.0.1', 54057) enviou 2 5.000000 2.000000
+Cliente ('127.0.0.1', 54057) desconectou.
+cliente ('127.0.0.1', 54138) conectou.
+Cliente ('127.0.0.1', 54138) enviou 1 2.000000 5.000000
+Cliente ('127.0.0.1', 54138) enviou 2 10.000000 5.000000
+Cliente ('127.0.0.1', 54138) enviou 3 2.000000 5.000000
+Cliente ('127.0.0.1', 54138) enviou 4 10.000000 2.000000
+Cliente ('127.0.0.1', 54138) enviou 5 2.000000 5.000000
+Cliente ('127.0.0.1', 54138) enviou 6 9.000000
+Cliente ('127.0.0.1', 54138) enviou 7 5.000000
+Cliente ('127.0.0.1', 54138) desconectou.
+cliente ('127.0.0.1', 54138) conectou.
+cliente ('127.0.0.1', 54377) conectou.
+Cliente ('127.0.0.1', 54377) enviou 5 1.000000 2.000000
